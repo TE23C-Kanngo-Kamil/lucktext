@@ -1,5 +1,6 @@
 ﻿string name;
 
+
 Console.ForegroundColor = ConsoleColor.Black;
 Console.BackgroundColor = ConsoleColor.White;
 Console.Clear();
