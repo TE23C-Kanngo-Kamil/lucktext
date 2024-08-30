@@ -1,0 +1,14 @@
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\bin\Debug\net8.0\LuckTest.exe
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\bin\Debug\net8.0\LuckTest.deps.json
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\bin\Debug\net8.0\LuckTest.runtimeconfig.json
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\bin\Debug\net8.0\LuckTest.dll
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\bin\Debug\net8.0\LuckTest.pdb
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.AssemblyInfoInputs.cache
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.AssemblyInfo.cs
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.csproj.CoreCompileInputs.cache
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.dll
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\refint\LuckTest.dll
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.pdb
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\LuckTest.genruntimeconfig.cache
+c:\Users\kamil.kanngo\Documents\prog-1\lucktext\LuckTest\obj\Debug\net8.0\ref\LuckTest.dll
